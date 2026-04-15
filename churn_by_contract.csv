@@ -1,0 +1,4 @@
+Contract,total_customers,churned,churn_rate,avg_monthly_charges,avg_tenure_months
+Month-to-month,3875,1655,42.71,66.4,18.0
+One year,1473,166,11.27,65.05,42.0
+Two year,1695,48,2.83,60.77,56.7

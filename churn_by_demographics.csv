@@ -1,0 +1,5 @@
+SeniorCitizen_Label,gender,total_customers,churned,churn_rate,avg_monthly_charges
+Senior,Female,568,240,42.25,81.11
+Senior,Male,574,236,41.11,78.54
+Non-Senior,Female,2920,699,23.94,62.11
+Non-Senior,Male,2981,694,23.28,61.59
