@@ -33,4 +33,4 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 4. Load CSV files into Power BI to rebuild dashboard
 
 ## Dashboard Preview
-![Churn Dashboard](dashboard.png)
+![Churn Dashboard](dashboard2.png)
